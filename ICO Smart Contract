@@ -72,7 +72,7 @@ contract Crowdsale is SafeMath {
 
     /*  initialization, set the token address */
     function Crowdsale( ) {
-        tokenReward = token(0x5bdf79f1e7431edb75537d23d3b404ef86f44316);
+        tokenReward = token(0x08711d3b02c8758f2fb3ab4e80228418a7f8e39c);
     }
 
     /* invest by sending ether to the contract. */
